@@ -22,6 +22,9 @@ section.main {
 	width: 95%;
 	position: relative;}
 
+section.main h1#prefixwrap { background-color: #73d1d6; }
+section.main h1#suffixwrap { background-color: #679bef; }
+
 section.float {
     position: fixed;
     top: -1px;
