@@ -24,7 +24,7 @@ section.main {
 
 section.main div#prefixwrap { background-color: #73d1d6; }
 section.main div#suffixwrap { background-color: #9a68f2; }
-section.main div div { background-color: #c8c8c8; }
+section.main div div table { background-color: #c8c8c8; }
 
 section.float {
     position: fixed;
